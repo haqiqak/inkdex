@@ -463,13 +463,6 @@ The **spatial zone separation** (toolbar vs. drawing area) draws from Fitts' Law
 | Collaborative whiteboard over network | Planned |
 | Presentation / lecture mode | Planned |
 | Accessibility profile (reduced-mobility) | Planned |
-
----
-
-## License
-
-MIT License. See `LICENSE` for details.
-
 ---
 
 ## Citation
@@ -478,7 +471,6 @@ If you use Inkdex in academic work, please cite:
 
 ```
 Inkdex: A Gesture-Controlled Touchless Teaching Board System
-https://github.com/[your-username]/inkdex
 ```
 
 ---
